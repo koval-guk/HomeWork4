@@ -9,9 +9,6 @@ public class Main {
         sharik.run(150);
         sharik.swim(600);
         sharik.swim(0);
-        Animal chupakabra = new Animal("Chupakabra");
-        chupakabra.run(6000);
-        chupakabra.swim(-666);
         Cat bagel = new Cat("Bagel");
         bagel.run(560);
         bagel.run(0);

@@ -35,6 +35,6 @@ public class Cat extends Animal {
     }
 
     protected static void printCount() {
-        System.out.println("there are " + getCount() + " cats in our circus");
+        System.out.println("there are " + getCount() + " cats in our cat-dog world");
     }
 }

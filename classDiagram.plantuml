@@ -1,7 +1,6 @@
 @startuml
 skinparam classAttributeIconSize 0
-class Animal {
-- name : String
+abstract class Animal {
 -animalCount :int
 --
 #run(int distance)

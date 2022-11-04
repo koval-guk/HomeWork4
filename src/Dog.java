@@ -43,6 +43,6 @@ public class Dog extends Animal {
     }
 
     protected static void printCount() {
-        System.out.println("there are " + getCount() + " dogs in our circus");
+        System.out.println("there are " + getCount() + " dogs in our dog-cat world");
     }
 }
